@@ -1,7 +1,7 @@
+# acuccoder
 - 👋 Hi, I’m @acuccoder
-- 👀 I’m interested in ... Coding HTML, CSS, JS, Python
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning React and ElectronJS
 - 📫 How to reach me ... aaravvchopra@outlook.com or aaravvchopra@gmail.com
 
 <!---
