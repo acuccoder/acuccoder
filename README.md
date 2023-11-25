@@ -1,7 +1,7 @@
 # acuccoder
 - 👋 Hi, I’m @acuccoder
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning React and ElectronJS
+- 🌱 I’m currently learning React, ElectronJS, and Microsoft Fluent 2 Design Language
 - 📫 How to reach me ... aaravvchopra@outlook.com or aaravvchopra@gmail.com
 
 <!---
